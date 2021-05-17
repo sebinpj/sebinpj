@@ -23,45 +23,22 @@ I have been working as a professional software developer for 4+ years, and I am 
 
 ### ☠ Languages I work with
 
-* JavaScript
-* TypeScript
-* Java
-* PHP
-* Bash
-* Python
+| JavaScript 	| Java 	| Bash 	| PHP 	| Python 	|
+|:----------:	|:----:	|:----:	|-----	|--------	|
 
 ### 👨‍🔧 Frameworks and libraries 
 
-- React
-- Angular
-- Ionic
-- Express
-- D3.js
-- SpringBoot
-- NumPy
-- NestJS
-- FeathersJS
-- Wordpress
-- Laravel
+| React     	| Angular   	| Ionic      	| Express        	| SpringBoot  	|
+|-----------	|-----------	|------------	|----------------	|-------------	|
+| **D3.js** 	| **NumPy** 	| **NestJS** 	| **FeathersJS** 	| **Laravel** 	|
 
 ### 🗃 Databases 
 
-- MySQL
-- Postgress
-- Cassandra
-- Solr
-- DynamoDB
-- Redis
-- SQLite
+| MySQL 	| Postgress 	| Cassandra 	| Solr 	| MongoDB 	|
+|-------	|-----------	|-----------	|------	|---------	|
 
 ### 🗄 DevOps tools and services that I am familiar with
 
-- Docker
-- Kubernetes
-- K3S
-- Helm
-- AWS
-- Jenkins
-- Github Actions
-- Gitlab Pipelines
-- Fastlane
+| Docker             	| Kubernetes           	| AWS     	| Helm        	|
+|--------------------	|----------------------	|---------	|-------------	|
+| **Github Actions** 	| **Gitlab Pipelines** 	| **K3S** 	| **Jenkins** 	|
