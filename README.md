@@ -14,3 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sebin P Johnson, and I make amazing websites, cool apps and crazy business ideas possible
+
+## ⚡ Brief intro
+
+I have been working as a professional software developer for 4+ years, and I am known to be a fast learner, good communicator and a pragmatic programmer :}
+
+### ☠ Languages I work with
+
+* JavaScript
+* TypeScript
+* Java
+* PHP
+* Bash
+* Python
+
+### 👨‍🔧 Frameworks and libraries 
+
+- React
+- Angular
+- Ionic
+- Express
+- D3.js
+- SpringBoot
+- NumPy
+- NestJS
+- FeathersJS
+- Wordpress
+- Laravel
+
+### 🗃 Databases 
+
+- MySQL
+- Postgress
+- Cassandra
+- Solr
+- DynamoDB
+- Redis
+- SQLite
+
+### 🗄 DevOps tools and services that I am familiar with
+
+- Docker
+- Kubernetes
+- K3S
+- Helm
+- AWS
+- Jenkins
+- Github Actions
+- Gitlab Pipelines
+- Fastlane
