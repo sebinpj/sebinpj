@@ -19,7 +19,7 @@ I'm Sebin P Johnson, and I make amazing websites, cool apps and crazy business i
 
 ## ⚡ Brief intro
 
-I have been working as a professional software developer for 4+ years, and I am known to be a fast learner, good communicator and a pragmatic programmer :}
+I have been working as a software engineer for 4+ years, and I am known to be a fast learner, good communicator and a pragmatic programmer :}
 
 ### ☠ Languages I work with
 
