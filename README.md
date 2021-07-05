@@ -34,7 +34,7 @@ I have been working as a software engineer for 4+ years, and I am known to be a 
 
 ### 🗃 Databases 
 
-| MySQL 	| Postgress 	| Cassandra 	| Solr 	| MongoDB 	|
+| MySQL 	| Postgres 	| Cassandra 	| Solr 	| MongoDB 	|
 |-------	|-----------	|-----------	|------	|---------	|
 
 ### 🗄 DevOps tools and services that I am familiar with
