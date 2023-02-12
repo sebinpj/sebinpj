@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Sebin P Johnson, and I make amazing websites, cool apps and crazy business ideas possible
+Hey there, I'm Sebin P Johnson, a Lead Fullstack Engineer with a love for code that borders on obsessive. I take great joy in bringing websites, apps, and business ideas to life through my technical wizardry and creative problem-solving skills. My approach to coding is a little bit quirky, a little bit nerdy, but always focused on delivering innovative and effective solutions. I see technology as a playground for creativity and I'm here to build the most awesome digital experiences for people and businesses alike. 
 
 ## ⚡ Brief intro
 
-I have been working as a software engineer for 4+ years, and I am known to be a fast learner, good communicator and a pragmatic programmer :}
+With 4+ years of experience as a software engineer, I am known for my quick learning, excellent communication skills, and practical programming approach. I work with several programming languages including JavaScript, Java, Bash, PHP, and Python. 
+
 
 ### ☠ Languages I work with
 
