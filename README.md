@@ -19,7 +19,7 @@ Hey there, I'm Sebin P Johnson, a Lead Fullstack Engineer with a love for code t
 
 ## ⚡ Brief intro
 
-With 4+ years of experience as a software engineer, I am known for my quick learning, excellent communication skills, and practical programming approach. I work with several programming languages including JavaScript, Java, Bash, PHP, and Python. 
+With 7+ years of experience as a software engineer, I am known for my quick learning, excellent communication skills, and practical programming approach. I work with several programming languages including JavaScript, Java, Bash, PHP, and Python. 
 
 
 ### ☠ Languages I work with
